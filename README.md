@@ -4,4 +4,3 @@
 - 📫 How to reach me: https://linktr.ee/Viratt737
 - 😄 Pronouns: he/him
 - Real DevOps don’t sleep... they wait for deployments.
-
