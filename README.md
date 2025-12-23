@@ -36,10 +36,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viratt737&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratt737&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viratt737&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratt737&theme=tokyonight" />
+
 </p>
 
-<p align="center">
-  <i>“Code, Learn, Improve — Repeat.”</i>
-</p>
