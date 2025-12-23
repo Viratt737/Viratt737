@@ -1,16 +1,45 @@
-- 🌱 I’m currently learning web dev and DevOps.
+<!-- PROFILE COVER IMAGE -->
+## 📫 Connect With Me
+- 🔗 Linktree: https://linktr.ee/Viratt737
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Virat Trivedi</h1>
+<h3 align="center">Backend Developer | Node.js | MongoDB | DSA Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+🌱 I’m currently learning web dev and DevOps.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about problem solving.
-- 📫 How to reach me: https://linktr.ee/Viratt737
 - 😄 Pronouns: he/him
 - Real DevOps don’t sleep... they wait for deployments.
 
-## 🛠️ Tech Stack
-**Languages:** C++, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Postman, Docker (Basics)
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![Express](https://img.shields.io/badge/Express-black)
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge" />
+</p>
+
+## 📈 Coding Profiles
+- 🟢 **GeeksforGeeks:** College Rank **151**
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viratt737&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratt737&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <i>“Code, Learn, Improve — Repeat.”</i>
+</p>
