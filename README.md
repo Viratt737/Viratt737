@@ -7,8 +7,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Virat Trivedi</h1>
-<h3 align="center">Backend Developer | Node.js | MongoDB | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Virat Trivedi</h1>
+<h3 align="center">I am currently working on my web development knowledge and Devops as well, but I enjoy backend development more</h3>
 
 ---
 
