@@ -36,7 +36,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark)
+<h2>📊 GitHub Stats</h2>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark"
+  alt="GitHub Profile Summary"
+/>
 
 </p>
 
