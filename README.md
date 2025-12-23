@@ -36,8 +36,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viratt737&show_icons=true&theme=tokyonight" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratt737&theme=tokyonight" />
+ ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viratt737&theme=tokyonight)
 
 </p>
 
