@@ -32,7 +32,7 @@
 </p>
 
 ## 📈 Coding Profiles
-- 🟢 **GeeksforGeeks:** College Rank **151**
+- 🟢 **GeeksforGeeks:** College Rank **106**
 
 ## 📊 GitHub Stats
 <p align="center">
