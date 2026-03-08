@@ -37,12 +37,8 @@
 ## 📊 GitHub Stats
 <p align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark"
-  alt="GitHub Profile Summary"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark"/>
 
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark"/>
 
