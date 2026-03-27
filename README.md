@@ -30,6 +30,19 @@
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requestly-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nodemailer-green?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 ## 📈 Coding Profiles
