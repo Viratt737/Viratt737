@@ -1,6 +1,6 @@
 <!-- PROFILE COVER IMAGE -->
 ## 📫 Connect With Me
-- 🔗 Email:viratt737@gmail.com
+- 🔗 Email: viratt737@gmail.com
 - 🔗 Linktree: https://linktr.ee/viratt
 
 ---
