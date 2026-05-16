@@ -10,7 +10,14 @@
 
 <h1 align="center">Hi, I'm Virat Trivedi</h1>
 <h3 align="center">I am currently working on my web development knowledge and Devops as well, but I enjoy backend development more</h3>
+<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Mauryavishal18?style=for-the-badge&color=7b68ee" />
+  <img src="https://img.shields.io/github/stars/Mauryavishal18?style=for-the-badge&color=7b68ee" />
+  <img src="https://komarev.com/ghpvc/?username=Mauryavishal18&label=Profile%20Views&color=7b68ee&style=for-the-badge" />
+</p>
 
+</div>
 ---
 
 ## 👨‍💻 About Me
